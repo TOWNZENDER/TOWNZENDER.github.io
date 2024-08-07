@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+nav a:hover {
+    color: #0066cc;
+    text-decoration: underline;
+}
+
+#name {
+    color: #0066cc;
+}
+
+.section {
+    padding: 2rem;
+    margin: 1rem 0;
+    border-bottom: 1px solid #ccc;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.section {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#contact {
+    background-color: #e6f2ff;
+    padding: 1.5rem;
+}
